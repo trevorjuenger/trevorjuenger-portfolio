@@ -11,3 +11,5 @@ a{color:#0b57d0;text-decoration:none}a:hover{text-decoration:underline}
 .muted{color:#666}.small{font-size:14px}.press a{display:block;margin:8px 0}
 .home-links a{display:inline-block;margin:6px 14px 6px 0}
 hr{border:0;border-top:1px solid #ddd;margin:26px 0}
+.cv{max-width:960px}.cv-intro{font-size:17px}.cv-entry{display:grid;grid-template-columns:140px 1fr;gap:24px;padding:20px 0;border-top:1px solid #d8d2c8}.cv-entry h3{font-size:20px;margin-bottom:7px}.cv-entry p{margin:6px 0}.cv-date{color:#666;font-weight:600}.cv-list{padding-left:22px}.cv-list li{margin:9px 0}.cv-note{margin-top:32px;text-align:center}
+@media(max-width:640px){.cv-entry{grid-template-columns:1fr;gap:4px}.wrap{padding-top:24px}h1{font-size:36px}}
